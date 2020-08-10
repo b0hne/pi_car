@@ -1,0 +1,6 @@
+install:
+pip3 install adafruit-circuitpython-neopixel
+pip3 install adafruit-circuitpython-pca9685
+pip3 install adafruit-circuitpython-servokit
+pip3 install Serial
+#pip3 install gpiozero
