@@ -6,3 +6,6 @@
 # features
 - remote controlled via Twist Messages
 - publishes live camera stream
+
+# lauch
+- $ ros2 launch pi_car pi_car.launch.py
