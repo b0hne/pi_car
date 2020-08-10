@@ -3,6 +3,6 @@
 - pip3 install adafruit-circuitpython-pca9685
 - pip3 install adafruit-circuitpython-servokit
 
-# capabilities
-- remotecontroled via Twist Messages
+# features
+- remote controlled via Twist Messages
 - publishes live camera stream
