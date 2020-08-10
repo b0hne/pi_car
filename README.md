@@ -1,5 +1,7 @@
 # ros2_pi_car for ros2 Foxy Fitzroy
-- install:
+A simple node for a raspberry pi 3 controlled rc car using a PCA9685 and DC Motors
+
+# install:
 - pip3 install adafruit-circuitpython-pca9685
 - pip3 install adafruit-circuitpython-servokit
 
