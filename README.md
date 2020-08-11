@@ -4,6 +4,8 @@ A simple node for a raspberry pi 3 controlled rc car using a PCA9685 and DC Moto
 # install:
 - pip3 install adafruit-circuitpython-pca9685
 - pip3 install adafruit-circuitpython-servokit
+- pip3 install board, busio
+
 
 # features
 - remote controlled via Twist Messages
