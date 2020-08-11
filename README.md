@@ -15,6 +15,6 @@ A simple node for a raspberry pi 3 controlled rc car using a PCA9685 and DC Moto
 - $ ros2 launch pi_car pi_car.launch.py
 
 # main.cpp
-- implements same behaviour using in ROS Melodic
+- implements same behaviour using an esp 8266 in ROS Melodic
 
 ![Alt text](pi_car.png?raw=true "pi_car")
