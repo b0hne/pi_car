@@ -9,7 +9,6 @@
 
   <depend>rclpy</depend>
   <exec_depend>board</exec_depend>
-  <exec_depend>adafruit_pca9685</exec_depend>
   <exec_depend>geometry_msgs</exec_depend> 
 
   <test_depend>ament_copyright</test_depend>
